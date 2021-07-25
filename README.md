@@ -2,7 +2,9 @@
 Make short link by using [GPlink](https://gplinks.in/) API key
 ### Installation
 
+#### The Easy Way
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=)
 
 
 ##### Required Variables
