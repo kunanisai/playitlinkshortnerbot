@@ -4,7 +4,7 @@ Make short link by using [GPlink](https://gplinks.in/) API key
 
 #### The Easy Way
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ksprojects1/gp-links-bot)
 
 
 ##### Required Variables
