@@ -3,8 +3,7 @@ Make short link by using [GPlink](https://gplinks.in/) API key
 ### Installation
 
 
-## Try GPLinks PHP Bot (Some Are getting Error In This Repo So Use PHP Repo. If You Are Getting Error)
-https://github.com/CyberBoyAyush/Gp-Links-Bot
+
 
 ##### Required Variables
 
